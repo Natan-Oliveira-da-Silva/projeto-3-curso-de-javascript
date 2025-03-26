@@ -1,2 +1,2 @@
 # projeto-3-curso-de-javascript
-Página feita com HTML, CSS e JS no curso de JavaScript.
+A página muda a sua cor de fundo quanto o usuário clica em um botão.
